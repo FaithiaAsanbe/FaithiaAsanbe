@@ -15,7 +15,7 @@ I enjoy building practical cyber security projects that demonstrate real-world s
 - ## Projects
   |Projecs | Description | Repository |
   | ------ | ----------- | ---------- |
-  | OSINT Investigation | Conducted an OSINT Investigation on a target Organisation | Coming Soon |
+  | OSINT Investigation | Conducted an OSINT Investigation on a target Organisation | https://github.com/FaithiaAsanbe/osint-project.git |
   | Log Analysis | Analysis IIS and Windows Event Logs to identify attacks | coming soon |
 
   ## Skills
