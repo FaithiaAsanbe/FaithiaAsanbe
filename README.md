@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Asanbe Faithia 
 
-<!--
-**FaithiaAsanbe/FaithiaAsanbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a cyber security student at nitt portharcourt, passionate about offensive and defensve about cyber security.
+I enjoy building practical cyber security projects that demonstrate real-world skills in:
+- Penestration testing
+- Log Analysis
+- Malware Analysis
+- Digigtal Forensic
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Governance Risk and Compliance
 
-Here are some ideas to get you started:
+- ## Projects
+  |Projecs | Description | Repository |
+  | ------ | ----------- | ---------- |
+  | OSINT Investigation | Conducted an OSINT Investigation on a target Organisation | Coming Soon |
+  | Log Analysis | Analysis IIS and Windows Event Logs to identify attacks | coming soon |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Skills
+  ### Operating System
+  - Windows
+  - Linux
+
+  ### Networking
+  - TCP
+  - DNS
+  - HTTP
+  - FTP
+  - SSH
+  - TELNET 
+
+  ### Cybersecurity Tools
+  - Nmap
+  - Wireshark
+  - Burpsuite
+  - Splunk
+  - Snort
+  - Suricata
+  - ELK
+  - GIT
+  - Github
+
+  ## Certifications
+  - ISC2 CC (In progress)
+  - CompTIA Security+ (In Progress)
+    
+  ## Education
+  - NIIT Port Harcourt: Cyber Security Program
+
+  ## Contact
+  - Email: asanbefahthiaomorinsola@gmail.com
+  - Linkedin:
