@@ -18,11 +18,6 @@
 > *"Protecting systems, investigating cyber threats, and advancing digital security through intelligence, integrity, and innovation."*
  
 ---
-<p align="center">
-  <b>Entry-Level Cybersecurity Analyst</b> · SOC Analyst · Log Analyst · Penetration Testing
-</p>
-
----
 
 ## 🧑‍💻 About Me
 
