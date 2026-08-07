@@ -47,7 +47,7 @@ Currently seeking **entry-level SOC Analyst / Junior Security Analyst** roles wh
 | Project | Description | Tools | Status |
 |---------|-------------|-------|--------|
 | 🕵️ OSINT Investigation | Conducted an OSINT investigation on a target system to gather intelligence and map attack surface | Coming soon | 🔄 In Progress  |
-| 🦠 Malware Analysis | Static and dynamic analysis of malware samples to identify behaviour and indicators of compromise | Coming soon | ✅ [Complete](https://github.com/FathiaAsanbe/malware-analysis |
+| 🦠 Malware Analysis | Static and dynamic analysis of malware samples to identify behaviour and indicators of compromise | Coming soon | ✅ [Complete](https://github.com/FathiaAsanbe/malware-analysis) |
 | 🎭 Social Engineering | Simulated social engineering scenarios to understand human-based attack vectors | Coming soon | 🔄 In Progress |
 | 🔍 Vulnerability Assessment | Scanned and assessed a target environment for vulnerabilities and produced a findings report | Coming soon | 🔄 In Progress |
 | 💀 Penetration Testing | Conducted a full penetration test on a target system covering reconnaissance, exploitation, and reporting | Coming soon | 🔄 In Progress |
