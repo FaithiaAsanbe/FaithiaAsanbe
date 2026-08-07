@@ -1,4 +1,24 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2c5364&height=250&section=header&text=Hi,%20I'm%20Fathia%20Asanbe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Entry-Level%20Cybersecurity%20Analyst%20%7C%20SOC%20%7C%20Log%20Analysis%20%7C%20Penetration%20Testing&descAlignY=60&descSize=18" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=SOC+Analyst;Log+Analysis;Penetration+Testing;Entry-Level+Cybersecurity+Analyst" />
+</p>
+<p align="center">
+  <a href="mailto:asanbefathiaomorinsola@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FaithiaAsanbe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#"> <!-- TODO: paste your LinkedIn profile URL here -->
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+> *"Protecting systems, investigating cyber threats, and advancing digital security through intelligence, integrity, and innovation."*
+ 
+---
+<p align="center">
   <b>Entry-Level Cybersecurity Analyst</b> · SOC Analyst · Log Analyst · Penetration Testing
 </p>
 
